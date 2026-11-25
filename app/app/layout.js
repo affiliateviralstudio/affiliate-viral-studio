@@ -1,9 +1,6 @@
-
-import "./globals.css";
-
 export const metadata = {
   title: "Affiliate Viral Studio",
-  description: "Your AI-powered affiliate content command center.",
+  description: "AI-powered affiliate content studio",
 };
 
 export default function RootLayout({ children }) {
